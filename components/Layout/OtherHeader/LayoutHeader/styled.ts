@@ -35,7 +35,7 @@ export const Address = styled(Box)(() => {
   return {
     color: "#979797",
     fontWeight: 600,
-    fontSize: 13,
+    fontSize: 12,
     lineHeight: "22px",
     width: 180,
     cursor: "pointer",
