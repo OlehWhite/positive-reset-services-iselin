@@ -42,7 +42,7 @@ const LogoImgDark = () => {
               fontSize: 14,
             }}
           >
-            MANALAPAN ISELIN
+             ISELIN
           </Box>
         </Box>
       </Box>
