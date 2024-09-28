@@ -24,7 +24,7 @@ const LogoImgDark = () => {
               fontSize: 18,
             }}
           >
-            POSITIVE RESET
+            POSITIVE RESET SERVICES
           </Box>
           <Box
             sx={{
@@ -42,7 +42,7 @@ const LogoImgDark = () => {
               fontSize: 14,
             }}
           >
-            ELIZABETH
+            MANALAPAN ISELIN
           </Box>
         </Box>
       </Box>
