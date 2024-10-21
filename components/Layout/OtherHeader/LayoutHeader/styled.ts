@@ -25,9 +25,9 @@ export const Tel = styled("a")(() => {
     display: "block",
     textDecoration: "none",
     marginBottom: 6,
-    color: "#979797",
+    color: "#555",
     fontWeight: 600,
-    fontSize: 14,
+    fontSize: 13,
   };
 });
 
@@ -35,7 +35,7 @@ export const Address = styled(Box)(() => {
   return {
     color: "#979797",
     fontWeight: 600,
-    fontSize: 12,
+    fontSize: 13,
     lineHeight: "22px",
     width: 180,
     cursor: "pointer",

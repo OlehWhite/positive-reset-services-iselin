@@ -8,7 +8,7 @@ import { Feedbacks } from "../components/Feedbacks/Feedbacks";
 import { Box } from "@mui/material";
 import React, { FC } from "react";
 import Head from "next/head";
-import { WEBSITE_TITLE } from "../otherPages/utils";
+import { WEBSITE_TITLE } from "../services/constants";
 
 const Home: FC = () => {
   return (

@@ -15,7 +15,7 @@ import Head from "next/head";
 import React from "react";
 import FiveBasicPrinciples from "../components/FiveBasicPrinciples/FiveBasicPrinciples";
 import { Feedbacks } from "../components/Feedbacks/Feedbacks";
-import { WEBSITE_TITLE } from "../otherPages/utils";
+import { WEBSITE_TITLE } from "../services/constants";
 
 const CouplesTherapy = () => {
   return (

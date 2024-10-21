@@ -21,7 +21,7 @@ import { Box } from "@mui/material";
 import Image from "next/image";
 import Head from "next/head";
 import React from "react";
-import { WEBSITE_TITLE } from "../otherPages/utils";
+import { WEBSITE_TITLE } from "../services/constants";
 
 const IntensiveOutpatientProgram = () => {
   return (

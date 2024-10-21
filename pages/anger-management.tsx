@@ -20,7 +20,7 @@ import { Box } from "@mui/material";
 import Image from "next/image";
 import React from "react";
 import { Feedbacks } from "../components/Feedbacks/Feedbacks";
-import { WEBSITE_TITLE } from "../otherPages/utils";
+import { WEBSITE_TITLE } from "../services/constants";
 
 const AngerManagement = () => {
   return (

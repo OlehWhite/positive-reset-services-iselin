@@ -20,7 +20,7 @@ import Image from "next/image";
 import Head from "next/head";
 import { DATA_LINKS } from "../components/Services/constants";
 import Link from "next/link";
-import { WEBSITE_TITLE } from "../otherPages/utils";
+import { WEBSITE_TITLE } from "../services/constants";
 
 const Telehealth = () => {
   return (
