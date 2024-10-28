@@ -18,7 +18,7 @@ const LogoImg = () => {
         </Box>
         <Box>
           <Box sx={{ color: "#fff", fontWeight: "bold", fontSize: 18 }}>
-            POSITIVE RESET SERVICES
+            POSITIVE RESET ISELIN
           </Box>
           <Box
             sx={{
@@ -28,14 +28,6 @@ const LogoImg = () => {
             }}
           >
             Mental Health Clinic
-          </Box>
-          <Box
-            sx={{
-              color: "#fff",
-              fontSize: 14,
-            }}
-          >
-             ISELIN
           </Box>
         </Box>
       </Box>
